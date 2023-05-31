@@ -39,22 +39,10 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
 
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## License
